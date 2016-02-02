@@ -1,5 +1,5 @@
 # hello-world
-Just a test repository
+A sample test repository
 
 Hello World. This is just some random text...
 
